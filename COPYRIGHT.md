@@ -1,0 +1,1 @@
+Copyright (c) 2016, Olivier Dolbeau <contact@olivierdolbeau.fr>
