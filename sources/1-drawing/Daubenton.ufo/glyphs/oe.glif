@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="1">
+  <advance width="1527"/>
+  <unicode hex="0153"/>
+  <outline>
+    <component base="O" xOffset="20"/>
+    <component base="E" xOffset="658"/>
+  </outline>
+</glyph>

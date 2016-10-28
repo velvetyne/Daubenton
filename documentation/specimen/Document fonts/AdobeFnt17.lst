@@ -1,0 +1,51 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Light
+FamilyName:Avenir LT Std
+StyleName:35 Light
+MenuName:Avenir LT Std 35 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Avenir LT Std 35 Light
+WritingScript:Roman
+OutlineFileName:\AvenirLTStd-Light_1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28084
+FileModTime:1188228560
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 35 Light
+NameArray:0,Win,1,Avenir LT Std 35 Light
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Daubenton
+FamilyName:Daubenton 
+StyleName:Regular
+MenuName:Daubenton
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Daubenton
+WritingScript:Roman
+OutlineFileName:\Daubenton.ttf
+DataFormat:sfntData
+FileLength:40984
+FileModTime:1334757970
+NameArray:0,Mac,18,Daubenton 
+NameArray:0,Mac,4,Daubenton
+NameArray:0,Win,1,Daubenton
+NameArray:0,Win,16,Daubenton 
+%EndFont
+

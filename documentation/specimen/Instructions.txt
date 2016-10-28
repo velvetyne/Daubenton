@@ -1,0 +1,86 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : daubenton.indd
+
+DATE D'ASSEMBLAGE : 27/10/2016 00:05
+Date de création : 27/10/2016
+Date de modification : 27/10/2016
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Sans
+
+POLICES
+2 Police(s) utilisée(s); 0 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : AvenirLTStd-Light; Type : OpenType Type 1, Etat : OK
+- Nom : Daubenton; Type : TrueType, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Magenta quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Jaune quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Noir quadri; Angle : 0,000; Lignes/pouce : 0,000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 9 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible(s)
+Images : 0 Incorporé(e)(s), 1 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : N/A, (Canon iX4000)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Non
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : RVB composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : Personnalisé : 148,5 mm x 210 mm
+Dimensions du papier : 210,002 mm x 297 mm
+Orientation : Portrait
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. daubenton.indd; type : Composition Adobe InDesign; taille : 2740K
+2. daubenton.idml; type : Document InDesign Markup; taille : 88K
+3. AvenirLTStd-Light_1.otf; type : Fichier de polices; taille : 27K
+4. Daubenton.ttf; type : Fichier de polices; taille : 40K

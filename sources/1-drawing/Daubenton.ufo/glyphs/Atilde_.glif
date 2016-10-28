@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="870"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="825" y="1" type="line"/>
+      <point x="759" y="68" type="line"/>
+      <point x="759" y="68" type="line"/>
+      <point x="439" y="748" type="line"/>
+      <point x="118" y="68" type="line"/>
+      <point x="118" y="68" type="line"/>
+      <point x="52" y="1" type="line"/>
+      <point x="250" y="1" type="line"/>
+      <point x="206" y="45" type="line"/>
+      <point x="331" y="357" type="line"/>
+      <point x="546" y="357" type="line"/>
+      <point x="671" y="45" type="line"/>
+      <point x="627" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="400" type="line"/>
+      <point x="439" y="625" type="line"/>
+      <point x="529" y="400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

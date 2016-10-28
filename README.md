@@ -1,8 +1,9 @@
 # Daubenton
 
-![specimen1](https://github.com/velvetyne/daubenton/blob/master/documentation/images/histoirenaturelle.jpg)
+![specimen1](https://github.com/velvetyne/daubenton/blob/master/documentation/images/daubenton.jpg)
+![specimen2](https://github.com/velvetyne/daubenton/blob/master/documentation/images/histoirenaturelle.jpg)
 
-Daubenton is a serif font designed by Olivier Dolbeau an inspired by engraved letters rue Daubenton in Paris.
+Daubenton is a serif font designed by Olivier Dolbeau. Daubenton is a revival of the engraved letters of the façade of the Great Evolution Gallery of the Natural History Museum in Paris. Daubenton was the name of the first director of the Museum.
 
 Contribute or download it on [Velvetyne Type Foundry](http://velvetyne.fr/fonts/daubenton/).
 
